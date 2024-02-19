@@ -1,0 +1,24 @@
+
+a:link{
+    color:red;
+}
+
+a:visited{
+    color:yellow;
+}
+a:hover{
+    color: hotpink;
+}
+
+a:active{
+    color: blue;
+}
+
+div:hover{
+    background-color: silver;
+}
+
+
+p::first-line{
+    color:powderblue;
+}
